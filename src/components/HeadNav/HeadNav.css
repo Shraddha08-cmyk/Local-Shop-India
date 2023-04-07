@@ -1,0 +1,9 @@
+.header-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1230px;
+    position: relative;
+    bottom: 400px;
+    left: 70px;
+}

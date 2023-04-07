@@ -1,0 +1,33 @@
+button {
+    background-color: rgb(255, 143, 39);
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+}
+
+.location-icon {
+    position: relative;
+    top: 30px;
+}
+
+.location {
+    position: relative;
+    right: 550px;
+    bottom: 280px;
+}
+
+.search-input {
+    width: 500px;
+    height: 35px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 320px;
+    left: 350px;
+}
+
+.search-icon {
+    font-size: 25px;
+    position: relative;
+    bottom: 380px;
+    left: 580px;
+}

@@ -1,0 +1,206 @@
+.left-p-1 {
+    font-size: 50px;
+    position: relative;
+    bottom: 350px;
+    right: 480px;
+}
+
+.left-p-2 {
+    font-size: 50px;
+    position: relative;
+    bottom: 420px;
+    right: 530px;
+}
+
+.left-p-3 {
+    font-size: 50px;
+    position: relative;
+    bottom: 536px;
+    right: 410px;
+    font-weight: bolder;
+    color: rgb(255, 143, 39);
+}
+
+.left-p-4 {
+    font-size: 50px;
+    position: relative;
+    bottom: 610px;
+    right: 515px;
+    font-weight: bolder;
+    color: rgb(255, 143, 39);
+}
+
+.left-p-5 {
+    font-size: 50px;
+    position: relative;
+    bottom: 729px;
+    right: 400px;
+}
+
+.left-p-6 {
+    font-size: 50px;
+    position: relative;
+    bottom: 790px;
+    right: 535px;
+}
+
+.left-p-7 {
+    font-size: 50px;
+    position: relative;
+    bottom: 910px;
+    right: 474px;
+    font-weight: 900;
+}
+
+.right-text {
+    font-size: 15px;
+    font-weight: bolder;
+    position: relative;
+    bottom: 1250px;
+    right: 140px;
+}
+
+.dotted-hr {
+    border: 1.5px dashed rgb(255, 143, 39);
+    position: relative;
+    bottom: 1255px;
+    left: 200px;
+    width: 850px;
+}
+
+.juice-img {
+    width: 130px;
+    position: relative;
+    bottom: 1240px;
+    right: 130px;
+}
+
+.neckband-img {
+    width: 160px;
+    position: relative;
+    bottom: 1390px;
+    left: 230px;
+}
+
+.tea-img {
+    width: 130px;
+    position: relative;
+    bottom: 1552px;
+    left: 570px;
+}
+
+.juice-text {
+    font-weight: bold;
+    width: 180px;
+    position: relative;
+    bottom: 1565px;
+    left: 450px;
+}
+
+.neckband-text {
+    font-weight: bold;
+    width: 220px;
+    position: relative;
+    bottom: 1622px;
+    left: 800px;
+}
+
+.tea-text {
+    font-weight: bold;
+    position: relative;
+    bottom: 1680px;
+    left: 560px;
+}
+
+.juice-offer {
+    position: relative;
+    bottom: 1668px;
+    right: 180px;
+    font-weight: 500;
+}
+
+.juice-off-hr {
+    position: relative;
+    bottom: 1694px;
+    right: 179px;
+    width: 60px;
+}
+
+.juice-amount-off {
+    color: red;
+    position: relative;
+    bottom: 1724px;
+    right: 65px;
+}
+
+.juice-actual-price {
+    color: green;
+    position: relative;
+    bottom: 1740px;
+    right: 120px;
+}
+
+.neckband-offer {
+    position: relative;
+    bottom: 1798px;
+    left: 160px;
+    font-weight: 500;
+}
+
+.neckband-off-hr {
+    position: relative;
+    bottom: 1824px;
+    left: 163px;
+    width: 60px;
+}
+
+.neckband-amount-off {
+    color: red;
+    position: relative;
+    bottom: 1854px;
+    left: 315px;
+}
+
+.neckband-actual-price {
+    color: green;
+    position: relative;
+    bottom: 1869px;
+    left: 240px;
+}
+
+.tea-offer {
+    position: relative;
+    bottom: 1950px;
+    left: 493px;
+    font-weight: 500;
+}
+
+.tea-off-hr {
+    position: relative;
+    bottom: 1976px;
+    left: 495px;
+    width: 55px;
+}
+
+.tea-amount-off {
+    color: red;
+    position: relative;
+    bottom: 2004px;
+    left: 625px;
+}
+
+.tea-actual-price {
+    color: green;
+    position: relative;
+    bottom: 2020px;
+    left: 560px;
+}
+
+.grocery-banner {
+    position: relative;
+    bottom: 2000px;
+    left: 20px;
+    height: 400px;
+    width: 1000px;
+    border-radius: 10px;
+}

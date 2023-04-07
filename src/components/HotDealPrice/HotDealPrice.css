@@ -1,0 +1,49 @@
+.deal-head {
+    font-size: 20px;
+    font-weight: bolder;
+    position: relative;
+    bottom: 2000px;
+    right: 490px;
+}
+
+.deal-dotted-hr {
+    border: 1.5px dashed rgb(255, 143, 39);
+    position: relative;
+    bottom: 2040px;
+    left: 20px;
+    width: 1200px;
+}
+
+.eraser-img {
+    width: 160px;
+    position: relative;
+    bottom: 2010px;
+    right: 500px;
+}
+
+.maggi-img {
+    width: 150px;
+    position: absolute;
+    top: 1070px;
+    left: 345px;
+}
+
+.chocho-img {
+    width: 160px;
+    position: relative;
+    bottom: 2110px;
+}
+
+.bulb-img {
+    width: 120px;
+    position: relative;
+    bottom: 2210px;
+    left: 260px;
+}
+
+.mixer-img {
+    width: 140px;
+    position: relative;
+    bottom: 2350px;
+    left: 520px;
+}
