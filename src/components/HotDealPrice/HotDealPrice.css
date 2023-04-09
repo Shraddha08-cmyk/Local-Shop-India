@@ -47,3 +47,183 @@
     bottom: 2350px;
     left: 520px;
 }
+
+.eraser-text {
+    font-weight: bold;
+    width: 220px;
+    position: relative;
+    bottom: 2365px;
+    left: 55px;
+}
+
+.maggi-text {
+    font-weight: bold;
+    width: 220px;
+    position: relative;
+    bottom: 2425px;
+    left: 305px;
+}
+
+.chocho-text {
+    font-weight: bold;
+    width: 210px;
+    position: relative;
+    bottom: 2485px;
+    left: 565px;
+}
+
+.bulb-text {
+    font-weight: bold;
+    width: 220px;
+    position: relative;
+    bottom: 2562px;
+    left: 815px;
+}
+
+.mixer-text {
+    font-weight: bold;
+    width: 220px;
+    position: relative;
+    bottom: 2620px;
+    left: 1090px;
+}
+
+.eraser-offer {
+    position: relative;
+    bottom: 2650px;
+    right: 590px;
+    font-weight: 500;
+}
+
+.eraser-off-hr {
+    position: relative;
+    bottom: 2676px;
+    right: 589px;
+    width: 50px;
+}
+
+.eraser-amount-off {
+    color: red;
+    position: relative;
+    bottom: 2703px;
+    right: 445px;
+}
+
+.eraser-actual-price {
+    color: green;
+    position: relative;
+    bottom: 2720px;
+    right: 520px;
+}
+
+.maggi-offer {
+    position: relative;
+    bottom: 2780px;
+    right: 320px;
+    font-weight: 500;
+}
+
+.maggi-off-hr {
+    position: relative;
+    bottom: 2806px;
+    right: 319px;
+    width: 50px;
+}
+
+.maggi-amount-off {
+    color: red;
+    position: relative;
+    bottom: 2834px;
+    right: 195px;
+}
+
+.maggi-actual-price {
+    color: green;
+    position: relative;
+    bottom: 2850px;
+    right: 260px;
+}
+
+.chocho-offer {
+    position: relative;
+    bottom: 2890px;
+    right: 60px;
+    font-weight: 500;
+}
+
+.chocho-off-hr {
+    position: relative;
+    bottom: 2916px;
+    right: 60px;
+    width: 50px;
+}
+
+.chocho-amount-off {
+    color: red;
+    position: relative;
+    bottom: 2944px;
+    right: -60px;
+}
+
+.chocho-actual-price {
+    color: green;
+    position: relative;
+    bottom: 2960px;
+    right: -1px;
+}
+
+.bulb-offer {
+    position: relative;
+    bottom: 3035px;
+    right: -170px;
+    font-weight: 500;
+}
+
+.bulb-off-hr {
+    position: relative;
+    bottom: 3061px;
+    right: -171px;
+    width: 50px;
+}
+
+.bulb-amount-off {
+    color: red;
+    position: relative;
+    bottom: 3090px;
+    right: -335px;
+}
+
+.bulb-actual-price {
+    color: green;
+    position: relative;
+    bottom: 3109px;
+    right: -251px;
+}
+
+.mixer-offer {
+    position: relative;
+    bottom: 3145px;
+    right: -450px;
+    font-weight: 500;
+}
+
+.mixer-off-hr {
+    position: relative;
+    bottom: 3171px;
+    right: -451px;
+    width: 60px;
+}
+
+.mixer-amount-off {
+    color: red;
+    position: relative;
+    bottom: 3200px;
+    right: -589px;
+}
+
+.mixer-actual-price {
+    color: green;
+    position: relative;
+    bottom: 3219px;
+    right: -521px;
+}
