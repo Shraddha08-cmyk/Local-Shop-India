@@ -4,11 +4,14 @@ import './Navbar.css';
 import { FaShoppingCart } from 'react-icons/fa';
 import { IoIosContact } from 'react-icons/io';
 import { IoMdInformationCircle } from 'react-icons/io';
+import { GoThreeBars } from 'react-icons/go';
 
 const Navbar = () => {
   return (
     <div className='nav'>
       <img className='logo-img' src={logo} alt="logo" />
+      <GoThreeBars className='three-lines' />
+      <div className="navbar">
       <div className="cart">
         <p className='cart-icon' >
           <FaShoppingCart />
@@ -34,6 +37,7 @@ const Navbar = () => {
         <h6 className="about-text">About Us</h6>
       </div>
       <hr style={{width:"1200px", position:"relative", bottom:"240px"}} />
+      </div>
     </div>
   )
 }

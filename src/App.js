@@ -6,6 +6,7 @@ import HeadNav from './components/HeadNav/HeadNav';
 import HotDealPoster from './components/HotDealPoster/HotDealPoster';
 import styled from '@emotion/styled';
 import HotDealPrice from './components/HotDealPrice/HotDealPrice';
+import ElectronicDeal from './components/ElectronicDeal/ElectronicDeal';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <HeadNav />
           <HotDealPoster />
           <HotDealPrice />
+          <ElectronicDeal />
         </div>
       </CssStyle>
     </div>

@@ -1,0 +1,90 @@
+.electric-head {
+    font-size: 20px;
+    font-weight: bolder;
+    position: relative;
+    bottom: 3200px;
+    right: 490px;
+}
+
+.electric-dotted-hr {
+    border: 1.5px dashed rgb(255, 143, 39);
+    position: relative;
+    bottom: 3240px;
+    left: 20px;
+    width: 1200px;
+}
+
+.tv-img {
+    width: 160px;
+    position: relative;
+    bottom: 3224px;
+    right: 500px;
+}
+
+.phone-img {
+    width: 130px;
+    position: relative;
+    bottom: 3350px;
+    right: 250px;
+}
+
+.lenovo-img {
+    width: 162px;
+    position: relative;
+    bottom: 3490px;
+    right: -4px;
+}
+
+.glass-img {
+    width: 124px;
+    position: relative;
+    bottom: 3640px;
+    right: -281px;
+}
+
+.watch-img {
+    width: 115px;
+    position: relative;
+    bottom: 3762px;
+    right: -516px;
+}
+
+.tv-text {
+    font-weight: bold;
+    width: 220px;
+    position: relative;
+    bottom: 3774px;
+    left: 55px;
+}
+
+.phone-text {
+    font-weight: bold;
+    width: 220px;
+    position: relative;
+    bottom: 3853px;
+    left: 310px;
+}
+
+.lenovo-text {
+    font-weight: bold;
+    width: 220px;
+    position: relative;
+    bottom: 3932px;
+    left: 570px;
+}
+
+.glass-text {
+    font-weight: bold;
+    width: 220px;
+    position: relative;
+    bottom: 4032px;
+    left: 843px;
+}
+
+.watch-text {
+    font-weight: bold;
+    width: 240px;
+    position: relative;
+    bottom: 4131px;
+    left: 1084px;
+}

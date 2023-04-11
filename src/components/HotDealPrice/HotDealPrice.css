@@ -227,3 +227,11 @@
     bottom: 3219px;
     right: -521px;
 }
+
+.kitchen {
+    width: 1000px;
+    height: 400px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 3200px;
+}

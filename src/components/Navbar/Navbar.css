@@ -56,3 +56,30 @@
     left: 200px;
     bottom: 245px;
 }
+
+.three-lines {
+    display: none;
+}
+
+@media screen and (max-width:500px) {
+    .logo-img {
+        /* position: relative; */
+        left: 7px;
+        top: 2px;
+    }
+
+    .three-lines {
+        display: block;
+        position: relative;
+        left: 464px;
+        top: 27px;
+    }
+
+    .navbar {
+        display: none;
+    }
+
+    .three-lines:hover .navbar {
+        display: inline;
+    }
+}

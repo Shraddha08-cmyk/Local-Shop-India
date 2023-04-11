@@ -5,6 +5,7 @@ import maggi from '../../images/maggi.jpg';
 import chocho from '../../images/chocho.png';
 import bulb from '../../images/bulb.jpg';
 import mixer from '../../images/mixer.jpg';
+import kitchen from '../../images/kitchenBanner.png';
 
 const HotDealPrice = () => {
   return (
@@ -51,6 +52,7 @@ const HotDealPrice = () => {
       <hr className='mixer-off-hr' />
       <p className="mixer-amount-off">-28% off</p>
       <p className="mixer-actual-price">&#8377;2449.00</p>
+      <img className='kitchen' src={kitchen} alt="kitchen" />
     </div>
   )
 }
